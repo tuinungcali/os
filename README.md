@@ -3,7 +3,7 @@
 
 # Wolfi
 
-This is the main package repository for the Wolfi project.
+This is the main package repository for the Wolfi project.a
 
 Named after the [smallest octopus][wiki-ow], [Wolfi][wolfi] is a lightweight GNU
 software distribution which is designed around minimalism, making it
